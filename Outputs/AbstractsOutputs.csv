@@ -1,0 +1,55 @@
+690
+503
+use, 583, Causes, apply, 588
+rendering, 579, FormOf, render, 572
+parameter, 15, HasContext, geometry, 10
+imagery, 30, IsA, image, 7
+496
+algorithm, 23, IsA, information, 3
+system, 25, IsA, method, 24
+67
+allow, 347, IsA, permit, 344
+844
+system, -1, IsA, method, -1
+structure, -1, IsA, system, -1
+define, -1, IsA, show, -1
+present, -1, IsA, introduce, -1
+take, -1, IsA, use, -1
+986
+984
+boundary, -1, AtLocation, map, -1
+727
+503
+use, 583, Causes, apply, 588
+rendering, 579, FormOf, render, 572
+parameter, 15, HasContext, geometry, 10
+imagery, 30, IsA, image, 7
+679
+simulation, -1, IsA, technique, -1
+473
+allow, 635, IsA, permit, 633
+552
+texture, 14, IsA, quality, 0
+variation, 3, IsA, process, 25
+allow, 490, IsA, give, 487
+present, 484, IsA, give, 487
+1000
+use, -1, Causes, apply, -1
+341
+sketch, 749, IsA, draw, 754
+678
+897
+781
+painting, -1, CreatedBy, artist, -1
+level, -1, IsA, tool, -1
+technique, -1, IsA, method, -1
+address, -1, IsA, use, -1
+allow, -1, IsA, give, -1
+give, -1, IsA, use, -1
+paint, -1, IsA, create, -1
+present, -1, IsA, give, -1
+paint, -1, MotivatedByGoal, create, -1
+1027
+580
+124
+put, 88, IsA, use, 83

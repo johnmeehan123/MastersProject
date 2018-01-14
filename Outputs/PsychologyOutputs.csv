@@ -1,0 +1,28 @@
+3702
+birthday, 2, Causes, party, 4
+child, 6, Desires, balloon, 20
+plan, 7, IsA, idea, 32
+ribbon, 27, IsA, decoration, 46
+balloon, 20, UsedFor, decoration, 46
+balloon, 20, UsedFor, party, 4
+child, 6, AtLocation, school, 9
+party, 4, UsedFor, birthday, 2
+come, 90, IsA, arrive, 59
+come, 90, IsA, run, 85
+organize, 54, IsA, manage, 95
+pick, 57, IsA, remove, 92
+3729
+border, 7, AtLocation, country, 0
+thoroughfare, 25, AtLocation, country, 0
+roads, 6, FormOf, road, 21
+thoroughfare, 25, IsA, road, 21
+give, 53, Causes, have, 44
+charge, 54, IsA, attack, 56
+give, 53, IsA, lead, 42
+render, 47, IsA, give, 53
+vow, 37, IsA, give, 53
+3719
+filament, 10, PartOf, lightbulb, 5
+work, 22, IsA, operate, 21
+3741
+day, 3, IsA, time, 0
